@@ -2,7 +2,9 @@ Unlock Full Game will comeback after a while , if that happens , just save your 
 You need to open the game though StartMC file . NOT start menu !
 Just ignore errors because that just fake warnings
 
-You can signin with your XBOX account
+And yes,You can signin with your XBOX account !
+
+If You are unable to sign in then re-install latest windows 10,then sign in to xbox app, then sign in to game !
 
 To Install , run Installer file
 
